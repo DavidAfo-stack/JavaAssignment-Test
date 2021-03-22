@@ -31,7 +31,6 @@ class TenantListTest {
         tenantList.add(tenant3);
         tenantList.add(tenant4);
         tenantList.add(tenant5);
-
     }
 
     /**
